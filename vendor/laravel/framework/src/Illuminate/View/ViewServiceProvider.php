@@ -70,6 +70,7 @@ class ViewServiceProvider extends ServiceProvider
      *
      * @return void
      */
+    
     public function registerViewFinder()
     {
         $this->app->bind('view.finder', function ($app) {

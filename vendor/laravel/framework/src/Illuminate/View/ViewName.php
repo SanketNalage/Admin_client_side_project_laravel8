@@ -4,6 +4,7 @@ namespace Illuminate\View;
 
 class ViewName
 {
+    
     /**
      * Normalize the given view name.
      *
