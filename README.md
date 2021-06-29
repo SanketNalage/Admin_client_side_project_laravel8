@@ -7,6 +7,5 @@ It is project of laravel 8 of admin representation of website which can be chang
   
 
 ## this is admin page login :
-<img src="
-https://user-images.githubusercontent.com/74045558/116714103-06bb0900-a9f3-11eb-8434-0d93d4270d16.png" alt="Italian Trulli" width="500" height="200">
+<img src="https://user-images.githubusercontent.com/74045558/116714103-06bb0900-a9f3-11eb-8434-0d93d4270d16.png" alt="Italian Trulli" width="500" height="200">
 
