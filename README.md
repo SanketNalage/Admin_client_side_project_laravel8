@@ -3,7 +3,7 @@ It is project of laravel 8 of admin representation of website which can be chang
 
 
 # This is project image of home page :::
-<img src="https://user-images.githubusercontent.com/74045558/116710089-ff91fc00-a9ee-11eb-97df-8162891ccbb9.png" alt="Italian Trulli" width="500" height="600">
+<img src="https://user-images.githubusercontent.com/74045558/116710089-ff91fc00-a9ee-11eb-97df-8162891ccbb9.png" alt="Italian Trulli" width="200" height="200">
   
 
 
